@@ -9,6 +9,7 @@ public class Test1 {
 	public void t1()                              //all non static method
 	{
 		System.out.println("t1 run");
+		//system.out.println("t1);
 	}
 	
 	
